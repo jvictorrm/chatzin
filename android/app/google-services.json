@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "201405123418",
+    "firebase_url": "https://chatzin-b7f3a.firebaseio.com",
+    "project_id": "chatzin-b7f3a",
+    "storage_bucket": "chatzin-b7f3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201405123418:android:b450a935d217f0e8050163",
+        "android_client_info": {
+          "package_name": "br.com.chatzin.chatzin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201405123418-hcs3s7jkt20fbse7e8ntarp09ahdoqgp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.chatzin.chatzin",
+            "certificate_hash": "9c1c39d74573beef597234044a74983eb61f8565"
+          }
+        },
+        {
+          "client_id": "201405123418-n2c1iprf13d984c4gebiqv4at46l8alh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjkUGA5N63M2Qy_cm0sTQVW3Oz0VPgh9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201405123418-n2c1iprf13d984c4gebiqv4at46l8alh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
